@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AudioFilter</string>
+    <string name="record_your_audio">Record your audio!</string>
+    <string name="record_again">Record again</string>
+    <string name="preference_file_key">com.hamonteroa.audiofilter.preference_file_key</string>
+</resources>
